@@ -56,7 +56,7 @@ namespace UserProfile.Controllers
             }
             else
             {
-                ViewBag.Result = "Something not Saved saved " ;
+                ViewBag.Result = "Something not Saved successfully " ;
 
 
             }
