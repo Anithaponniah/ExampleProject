@@ -56,8 +56,9 @@ namespace UserProfile.Controllers
             }
             else
             {
-                ViewBag.Result = "Something Went Wrong";
-                
+                ViewBag.Result = "Something not Saved Itembbbb" ;
+
+
             }
             return View("Profile");
         }
